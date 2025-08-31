@@ -2,10 +2,10 @@
 
 |Week|Progess Status (Pending⏳/WIP🔄/Completed✅)|
 |---|---|
-|1|Pending|
-|2|Pending|
-|3|Pending|
-|4|Pending|
+|1|Work In Progess🔄|
+|2|Pending⏳|
+|3|Pending⏳|
+|4|Pending⏳|
 
 ## Week 1 – __GCP Core + Networking__
 
