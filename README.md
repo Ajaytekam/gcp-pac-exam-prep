@@ -21,7 +21,7 @@
 
 - [ ] __Day 02__ 
 
-- __Study__
+- __Study__    
       - [ ] Advanced IAM (custom roles, workload identity federation)
       - [ ] Billing accounts, budgets, quotas
     - __Lab__  
